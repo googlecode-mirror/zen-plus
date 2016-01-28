@@ -1,0 +1,1 @@
+Zen Cart is a good shopping cart, that integrates a lot of functionalities, but sucks when it comes to templating or crating content, in this project we are trying to recreate zen cart by integrating a blog system, simplifying the templates, ajax and jquery.
